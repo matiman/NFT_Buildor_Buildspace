@@ -34,7 +34,7 @@ const Home: NextPage = () => {
           <Center>
             <Box marginBottom={4} color="white">
               <a
-                href="https://twitter.com/_buildspace"
+                href="https://twitter.com/Twittmati"
                 target="_blank"
                 rel="noopener noreferrer"
               >
